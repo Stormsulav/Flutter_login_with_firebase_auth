@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480547740128",
+    "firebase_url": "https://storm-brew-crew-9648e.firebaseio.com",
+    "project_id": "storm-brew-crew-9648e",
+    "storage_bucket": "storm-brew-crew-9648e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480547740128:android:c0b93e6decce4900b4b385",
+        "android_client_info": {
+          "package_name": "com.storm.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480547740128-1dgs56i3ei4aqdrdmt1q3ckjr59qt3s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qHTEKIlfOCHKyU5_bd0CSOjtj3119ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480547740128-1dgs56i3ei4aqdrdmt1q3ckjr59qt3s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
